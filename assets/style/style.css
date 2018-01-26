@@ -1,0 +1,74 @@
+body {
+    background-color:rgb(255, 251, 251);
+    text-align: center;
+
+    
+}
+header {
+    text-align: left;
+    color: rgb(123, 211, 240);
+    Font-size: 25px;
+}
+
+.navbar {
+    background: rgb(129, 204, 224);
+    color:whitesmoke;
+    display: flex;
+
+}
+.navends {
+    background-color: rgb(129, 204, 224);
+    justify-content: flex-end;
+    padding: 1em;
+    flex-direction: row;
+   
+}
+
+.article {
+    color: white;
+    padding-top: 5rem;
+    background-color: rgb(129, 204, 224);
+}
+
+.features {
+    text-align: center;
+    padding: 50px;
+
+}
+
+
+.profile {
+    margin: 5rem 0;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    font-size: 10px;
+}
+
+.marketing {
+    background-color: rgb(129, 204, 224);
+   
+
+}
+
+.btn {
+    border: 2px solid rgb(129, 204, 224);
+    border-radius: 25px;
+    background-color: rgb(90, 142, 202);
+    color: white;
+    font-size: 13px;
+    padding: 15px;
+    margin-left: 5px;
+}
+
+footer {
+    justify-content: center;
+    align-self: center;
+    background: rgb(84, 84, 117);
+    padding: 1rem;
+    color: white;
+   
+    
+}
+
+
+
